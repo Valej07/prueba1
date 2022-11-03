@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+:root{
+	--color-negro:#111;
+	--color-naranja:#FFDA79;
+	--color-letra-fondo:#17494d;
+	--color-letra-footer:#5d5d5d;
+	--color-fondo-hero:#09090d;
+	--color-hero:#09090d;
+	--color-about:#cce4e4;
+	--color-subscribe:#d6baf5;
+}
+body{
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+}
+header{
+	background-color: transparent;
+	padding: 20px;
+	font-size: 20px;
+	
+}
+
+#hero{
+padding: 5%;
+background-color: #fff;	
+}
+
+.images{
+	text-align: center;
+	margin-left: 5%;
+	margin-top: 5%;
+	align-content: center;
+}
+
+#hero h1{
+	color: var(--color-negro);
+	font-size: 70px;
+	font-weight: 700;
+	
+}
+
+#about{
+	background-color: var(--color-about);
+	padding: 10%;
+	
+}
+
+.btn-twilo3{
+	background-color: #fff;
+	color: var(--color-negro);
+	padding: 10px 25px;
+	font-size: 16px;
+	font-weight: 400;
+	margin-right: 10px;
+	margin-bottom: 5%;
+}
+
+.btn-twilo2{
+	background-color: var(--color-negro);
+	color: #fff;
+	padding: 10px 25px;
+	font-size: 16px;
+	font-weight: 400;
+	margin-right: 10px;
+	margin-top: 3%;
+}
+
+.btn-twilo1{
+	background-color: var(--color-naranja);
+	color: var(--color-negro);
+	padding: 10px 25px;
+	font-size: 16px;
+	font-weight: 400;
+	margin-right: 10px;
+	margin-bottom: 5%;
+}
+
+#worldwide{
+	background-color:#fff;
+	text-align: center;
+	padding: 10%;
+	
+}
+
+.titulo2{
+	color: var(--color-negro);
+	font-weight: 700;
+	margin-bottom: 5%;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
